@@ -1,0 +1,2 @@
+# No dependencies. This tool uses only the Python standard library.
+# The file exists because some hosting platforms expect to find it.
